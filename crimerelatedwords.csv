@@ -1,0 +1,393 @@
+ORDER,WORD,LANGUAGE,SEXUAL CRIME,VIOLENT CRIME,ORGANISED CRIME,PROPERTY CRIME,ROBBERY OF A PERSON,BURGLARY,CAR THEFT,SHOPLIFTING,MURDER,RAPE,KIDNAP,VANDALISM,GUNS,TOPICS
+1,#ayotzinapa,spanish,0,1,1,0,0,0,0,0,1,0,0,0,0,3
+2,#delincuente,spanish,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,#delincuentes,spanish,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4,#Femicidios,spanish,1,1,0,0,0,0,0,0,1,0,0,0,0,3
+5,#justicia,spanish,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,#NadieMenos,spanish,0,1,0,0,0,0,0,0,1,0,0,0,0,2
+7,#NiUnaMenos,spanish,1,1,0,0,0,0,0,0,1,0,0,0,0,3
+8,#NoMasVictimas,spanish,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+9,#SíVesAlgoDenuncia,spanish,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,#SiVesDenuncia,spanish,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,#VivasNosQueremos,spanish,1,1,0,0,0,0,0,0,0,0,0,0,0,2
+12,agravado,spanish,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+13,amaga,spanish,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+14,antiasalto,spanish,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+15,antiasaltos,spanish,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+16,antirobos,spanish,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+17,antisecuestro,spanish,0,1,0,0,0,0,0,0,0,0,1,0,0,2
+18,antisecuestros,spanish,0,1,0,0,0,0,0,0,0,0,1,0,0,2
+19,arma,spanish,0,1,0,0,0,0,0,0,0,0,0,0,1,2
+20,armados,spanish,0,1,0,0,0,0,0,0,0,0,0,0,1,2
+21,asaltada,spanish,0,0,0,1,1,0,0,0,0,0,0,0,0,2
+22,asaltado,spanish,0,0,0,1,1,0,0,0,0,0,0,0,0,2
+23,asaltante,spanish,0,0,0,1,1,0,0,0,0,0,0,0,0,2
+24,asaltantes,spanish,0,0,0,1,1,0,0,0,0,0,0,0,0,2
+25,asalto,spanish,0,0,0,1,1,0,0,0,0,0,0,0,0,2
+26,asesinado,spanish,0,1,0,0,0,0,0,0,1,0,0,0,0,2
+27,asesinato,spanish,0,1,0,0,0,0,0,0,1,0,0,0,0,2
+28,asesinatos,spanish,0,1,0,0,0,0,0,0,1,0,0,0,0,2
+29,asesino,spanish,0,1,0,0,0,0,0,0,1,0,0,0,0,2
+30,atracada,spanish,0,0,0,1,1,0,0,0,0,0,0,0,0,2
+31,atracado,spanish,0,0,0,1,1,0,0,0,0,0,0,0,0,2
+32,atraco,spanish,0,0,0,1,1,0,0,0,0,0,0,0,0,2
+33,atracos,spanish,0,0,0,1,1,0,0,0,0,0,0,0,0,2
+34,averiguación previa,spanish,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,ayotzinapa,spanish,0,1,1,0,0,0,0,0,1,0,0,0,0,3
+36,bandolera,spanish,0,0,0,1,1,0,0,0,0,0,0,0,0,2
+37,bandolerismo,spanish,0,0,0,1,1,0,0,0,0,0,0,0,0,2
+38,bandolero,spanish,0,0,0,1,1,0,0,0,0,0,0,0,0,2
+39,bandoleros,spanish,0,0,0,1,1,0,0,0,0,0,0,0,0,2
+40,beltran leyva,spanish,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+41,beltran-leyva,spanish,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+42,bolsillera,spanish,0,0,0,1,1,0,0,0,0,0,0,0,0,2
+43,bolsilleras,spanish,0,0,0,1,1,0,0,0,0,0,0,0,0,2
+44,bolsillero,spanish,0,0,0,1,1,0,0,0,0,0,0,0,0,2
+45,bolsilleros,spanish,0,0,0,1,1,0,0,0,0,0,0,0,0,2
+46,butroneras,spanish,0,0,0,1,1,0,0,0,0,0,0,0,0,2
+47,butronero,spanish,0,0,0,1,1,0,0,0,0,0,0,0,0,2
+48,butroneros,spanish,0,0,0,1,1,0,0,0,0,0,0,0,0,2
+49,caballeros templarios,spanish,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+50,cadaver,spanish,0,1,0,0,0,0,0,0,1,0,0,0,0,2
+51,cadáver,spanish,0,1,0,0,0,0,0,0,1,0,0,0,0,2
+52,calcinada,spanish,0,1,1,0,0,0,0,0,1,0,0,0,0,3
+53,calcinado,spanish,0,1,1,0,0,0,0,0,1,0,0,0,0,3
+54,calcinados,spanish,0,1,1,0,0,0,0,0,1,0,0,0,0,3
+55,carabineros,spanish,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+56,carcel,spanish,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+57,cárcel,spanish,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+58,cartel jalisco,spanish,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+59,cárteles,spanish,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+60,carterista,spanish,0,0,0,1,1,0,0,0,0,0,0,0,0,2
+61,carteristas,spanish,0,0,0,1,1,0,0,0,0,0,0,0,0,2
+62,cereso,spanish,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+63,coche robado,spanish,0,0,0,1,0,0,1,0,0,0,0,0,0,2
+64,complice,spanish,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+65,cómplice,spanish,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+66,complices,spanish,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+67,cómplices,spanish,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+68,contrabandear,spanish,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+69,contrabando,spanish,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+70,crimen,spanish,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+71,crimen organisado,spanish,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+72,crimen organizado,spanish,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+73,criminal,spanish,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+74,criminalidad,spanish,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+75,delictiva,spanish,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+76,delictivo,spanish,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+77,delincuente,spanish,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+78,delincuentes,spanish,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+79,delinquir,spanish,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+80,delito,spanish,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+81,denuncia,spanish,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+82,denunciado,spanish,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+83,descuideras,spanish,0,0,0,1,1,0,0,0,0,0,0,0,0,2
+84,descuideros,spanish,0,0,0,1,1,0,0,0,0,0,0,0,0,2
+85,disparo,spanish,0,1,0,0,0,0,0,0,0,0,0,0,1,2
+86,disparos,spanish,0,1,0,0,0,0,0,0,0,0,0,0,1,2
+87,doloso,spanish,0,1,0,0,0,0,0,0,1,0,0,0,0,2
+88,empalmadores,spanish,0,0,0,1,1,0,0,0,0,0,0,0,0,2
+89,encaloma,spanish,0,0,0,1,1,0,0,0,0,0,0,0,0,2
+90,encalomo,spanish,0,0,0,1,1,0,0,0,0,0,0,0,0,2
+91,encalomos,spanish,0,0,0,1,1,0,0,0,0,0,0,0,0,2
+92,encarcelada,spanish,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+93,encarcelado,spanish,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+94,escaparatistas,spanish,0,0,0,1,0,0,0,1,0,0,0,0,0,2
+95,escapatatista,spanish,0,0,0,1,0,0,0,1,0,0,0,0,0,2
+96,espadista,spanish,0,0,0,1,1,0,0,0,0,0,0,0,0,2
+97,espadistas,spanish,0,0,0,1,1,0,0,0,0,0,0,0,0,2
+98,estrangulamiento,spanish,0,1,0,0,0,0,0,0,1,0,0,0,0,2
+99,estrangular,spanish,0,1,0,0,0,0,0,0,1,0,0,0,0,2
+100,extorsion,spanish,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+101,extorsión,spanish,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+102,extorsionada,spanish,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+103,extorsionado,spanish,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+104,extorsionados,spanish,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+105,falsificación,spanish,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+106,falsificado,spanish,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+107,familia michoacana,spanish,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+108,feminicidio,spanish,0,1,0,0,0,0,0,0,1,0,0,0,0,2
+109,feminicidios,spanish,0,1,0,0,0,0,0,0,1,0,0,0,0,2
+110,fraude,spanish,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+111,fraudulento,spanish,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+112,graffitearon,spanish,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+113,grafitearon,spanish,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+114,grafiti,spanish,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+115,grafitti,spanish,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+116,grupo armado,spanish,0,1,1,0,0,0,0,0,0,0,0,0,1,3
+117,hampa,spanish,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+118,hampón,spanish,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+119,hampones,spanish,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+120,homicida,spanish,0,1,0,0,0,0,0,0,1,0,0,0,0,2
+121,homicidio,spanish,0,1,0,0,0,0,0,0,1,0,0,0,0,2
+122,hurtada,spanish,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+123,hurtadas,spanish,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+124,hurtado,spanish,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+125,hurtados,spanish,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+126,hurto,spanish,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+127,ilegal,spanish,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+128,ilicita,spanish,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+129,ilicito,spanish,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+130,ilícito,spanish,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+131,ilicitud,spanish,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+132,impune,spanish,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+133,impunidad,spanish,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+134,incidencia delictiva,spanish,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+135,insegura,spanish,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+136,inseguridad,spanish,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+137,inseguro,spanish,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+138,jalisco nueva generacion,spanish,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+139,ladron,spanish,0,0,0,1,1,0,0,0,0,0,0,0,0,2
+140,ladrón,spanish,0,0,0,1,1,0,0,0,0,0,0,0,0,2
+141,ladrones,spanish,0,0,0,1,1,0,0,0,0,0,0,0,0,2
+142,lancera,spanish,0,0,0,1,1,0,0,0,0,0,0,0,0,2
+143,lancero,spanish,0,0,0,1,1,0,0,0,0,0,0,0,0,2
+144,lanceros,spanish,0,0,0,1,1,0,0,0,0,0,0,0,0,2
+145,lanzazo,spanish,0,0,0,1,1,0,0,0,0,0,0,0,0,2
+146,lavado de dinero,spanish,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+147,lo sustraído,spanish,0,0,0,1,1,0,0,0,0,0,0,0,0,2
+148,mafia,spanish,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+149,maleteras,spanish,0,0,0,1,1,0,0,0,0,0,0,0,0,2
+150,maletero,spanish,0,0,0,1,1,0,0,0,0,0,0,0,0,2
+151,maleteros,spanish,0,0,0,1,1,0,0,0,0,0,0,0,0,2
+152,manoseo,spanish,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+153,masacre,spanish,0,1,1,0,0,0,0,0,1,0,0,0,0,3
+154,matan,spanish,0,1,0,0,0,0,0,0,1,0,0,0,0,2
+155,matanza,spanish,0,1,1,0,0,0,0,0,1,0,0,0,0,3
+156,mataron,spanish,0,1,0,0,0,0,0,0,1,0,0,0,0,2
+157,mazazo,spanish,0,0,0,1,1,0,0,0,0,0,0,0,0,2
+158,mazazos,spanish,0,0,0,1,1,0,0,0,0,0,0,0,0,2
+159,mecheras,spanish,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+160,mecheros,spanish,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+161,metieron a mi casa,spanish,0,0,0,1,0,1,0,0,0,0,0,0,0,2
+162,metieron a mi depa,spanish,0,0,0,1,0,1,0,0,0,0,0,0,0,2
+163,metralletas,spanish,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+164,motochorro,spanish,0,1,0,1,1,0,0,0,0,0,0,0,0,3
+165,muerta,spanish,0,1,0,0,0,0,0,0,1,0,0,0,0,2
+166,muerte,spanish,0,1,0,0,0,0,0,0,1,0,0,0,0,2
+167,muerto,spanish,0,1,0,0,0,0,0,0,1,0,0,0,0,2
+168,narco,spanish,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+169,narcofiesta,spanish,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+170,narcofosa,spanish,0,1,1,0,0,0,0,0,1,0,0,0,0,3
+171,narcofosas,spanish,0,1,1,0,0,0,0,0,1,0,0,0,0,3
+172,narcoguerra,spanish,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+173,narcomanta,spanish,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+174,narcorreventon,spanish,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+175,narcoviolencia,spanish,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+176,negocio robado,spanish,0,0,0,1,0,0,0,1,0,0,0,0,0,2
+177,palquista,spanish,0,0,0,1,1,0,0,0,0,0,0,0,0,2
+178,palquistas,spanish,0,0,0,1,1,0,0,0,0,0,0,0,0,2
+179,pandilla,spanish,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+180,patrulla,spanish,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+181,patrullas,spanish,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+182,peculado,spanish,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+183,pedofilia,spanish,1,0,0,0,0,0,0,0,0,1,0,0,0,2
+184,penal,spanish,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+185,penitenciaria,spanish,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+186,penitenciario,spanish,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+187,persona desaparecida,spanish,0,1,0,0,0,0,0,0,0,0,1,0,0,2
+188,PGR,spanish,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+189,piqueras,spanish,0,0,0,1,1,0,0,0,0,0,0,0,0,2
+190,piquero,spanish,0,0,0,1,1,0,0,0,0,0,0,0,0,2
+191,piqueros,spanish,0,0,0,1,1,0,0,0,0,0,0,0,0,2
+192,pistolas,spanish,0,1,0,0,0,0,0,0,0,0,0,0,1,2
+193,plagiada,spanish,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+194,plagiar,spanish,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+195,plagio,spanish,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+196,policia,spanish,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+197,policía,spanish,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+198,preso,spanish,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+199,prision,spanish,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+200,prisión,spanish,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+201,punzo cortante,spanish,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+202,punzocortante,spanish,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+203,raptada,spanish,0,1,0,0,0,0,0,0,0,0,1,0,0,2
+204,raptado,spanish,0,1,0,0,0,0,0,0,0,0,1,0,0,2
+205,ratera,spanish,0,0,0,1,1,0,0,0,0,0,0,0,0,2
+206,ratero,spanish,0,0,0,1,1,0,0,0,0,0,0,0,0,2
+207,rateros,spanish,0,0,0,1,1,0,0,0,0,0,0,0,0,2
+208,reclusión,spanish,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+209,reclusorio,spanish,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+210,reinventacavinas,spanish,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+211,reo,spanish,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+212,rififi,spanish,0,0,0,1,1,0,0,0,0,0,0,0,0,2
+213,robacoches,spanish,0,0,0,1,0,0,1,0,0,0,0,0,0,2
+214,robado,spanish,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+215,robando,spanish,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+216,robar mi coche,spanish,0,0,0,1,0,0,1,0,0,0,0,0,0,2
+217,robarle,spanish,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+218,robo,spanish,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+219,robo a casa,spanish,0,0,0,1,0,1,0,0,0,0,0,0,0,2
+220,robo a casa-habitacion,spanish,0,0,0,1,0,1,0,0,0,0,0,0,0,2
+221,robo a casa-habitación,spanish,0,0,0,1,0,1,0,0,0,0,0,0,0,2
+222,robo a hogar,spanish,0,0,0,1,0,1,0,0,0,0,0,0,0,2
+223,robo a negocio,spanish,0,0,0,1,0,0,0,1,0,0,0,0,0,2
+224,robo a negocios,spanish,0,0,0,1,0,0,0,1,0,0,0,0,0,2
+225,robo de negocio,spanish,0,0,0,1,0,0,0,1,0,0,0,0,0,2
+226,robo de negocios,spanish,0,0,0,1,0,0,0,1,0,0,0,0,0,2
+227,robo de vehículo,spanish,0,0,0,1,0,0,1,0,0,0,0,0,0,2
+228,rufian,spanish,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+229,rufián,spanish,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+230,rufianes,spanish,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+231,salideras bancarias,spanish,0,0,0,1,1,0,0,0,0,0,0,0,0,2
+232,salteador,spanish,0,0,0,1,1,0,0,0,0,0,0,0,0,2
+233,saquear,spanish,0,0,0,1,1,0,0,1,0,0,0,0,0,3
+234,saqueo,spanish,0,0,0,1,1,0,0,1,0,0,0,0,0,3
+235,Secretario de Seguridad,spanish,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+236,secuestrada,spanish,0,1,1,0,0,0,0,0,0,0,1,0,0,3
+237,secuestradas,spanish,0,1,1,0,0,0,0,0,0,0,1,0,0,3
+238,secuestrado,spanish,0,1,1,0,0,0,0,0,0,0,1,0,0,3
+239,secuestrados,spanish,0,1,1,0,0,0,0,0,0,0,1,0,0,3
+240,secuestro,spanish,0,1,1,0,0,0,0,0,0,0,1,0,0,3
+241,seguridad,spanish,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+242,sentencia,spanish,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+243,sentenciado,spanish,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+244,SSP,spanish,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+245,SSPCDMX,spanish,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+246,SSPDF,spanish,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+247,tablerista,spanish,0,0,0,1,0,0,1,0,0,0,0,0,0,2
+248,tableristas,spanish,0,0,0,1,0,0,1,0,0,0,0,0,0,2
+249,templarios,spanish,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+250,topera,spanish,0,0,0,1,1,0,0,0,0,0,0,0,0,2
+251,topero,spanish,0,0,0,1,1,0,0,0,0,0,0,0,0,2
+252,toperos,spanish,0,0,0,1,1,0,0,0,0,0,0,0,0,2
+253,toqueteos,spanish,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+254,tortura,spanish,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+255,vandalismo,spanish,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+256,vándalo,spanish,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+257,vehiculo robado,spanish,0,0,0,1,0,0,1,0,0,0,0,0,0,2
+258,vehículo robado,spanish,0,0,0,1,0,0,1,0,0,0,0,0,0,2
+259,victima,spanish,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+260,víctima,spanish,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+261,victimario,spanish,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+262,victimizar,spanish,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+263,victmisar,spanish,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+264,violacion,spanish,1,1,0,0,0,0,0,0,0,1,0,0,0,3
+265,violación,spanish,1,1,0,0,0,0,0,0,0,1,0,0,0,3
+266,violación,spanish,1,0,0,0,0,0,0,0,0,1,0,0,0,2
+267,violada,spanish,1,1,0,0,0,0,0,0,0,1,0,0,0,3
+268,violada,spanish,1,0,0,0,0,0,0,0,0,1,0,0,0,2
+269,violencia,spanish,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+270,violencia fisica,spanish,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+271,violencia física,spanish,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+272,violensia,spanish,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+273,violento,spanish,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+274,zetas,spanish,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+275,abuse,english,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+276,abused,english,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+277,aggresion,english,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+278,ammunition,english,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+279,assasin,english,0,1,0,0,0,0,0,0,1,0,0,0,0,2
+280,assassin,english,0,1,0,0,0,0,0,0,1,0,0,0,0,2
+281,assault,english,0,1,0,1,1,0,0,0,0,0,0,0,0,3
+282,attack,english,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+283,battery,english,0,1,0,1,1,0,0,0,0,0,0,0,0,3
+284,break and entry,english,0,0,0,1,0,1,0,0,0,0,0,0,0,2
+285,break-in,english,0,0,0,1,0,1,0,0,0,0,0,0,0,2
+286,breaking and entering,english,0,0,0,1,0,1,0,0,0,0,0,0,0,2
+287,burglary,english,0,0,0,1,0,1,0,0,0,0,0,0,0,2
+288,burlarizing,english,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+289,car theft,english,0,0,0,1,0,0,1,0,0,0,0,0,0,2
+290,cartheft,english,0,0,0,1,0,0,1,0,0,0,0,0,0,2
+291,casualty,english,0,1,0,0,0,0,0,0,1,0,0,0,0,2
+292,crime,english,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+293,criminal,english,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+294,criminality,english,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+295,culprit,english,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+296,cutthroat,english,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+297,deadly,english,0,1,0,0,0,0,0,0,1,0,0,0,0,2
+298,delict,english,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+299,delinquency,english,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+300,delinquent,english,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+301,depravity,english,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+302,drug dealing,english,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+303,drugdealing,english,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+304,executioner,english,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+305,fatality,english,0,1,0,0,0,0,0,0,1,0,0,0,0,2
+306,felon,english,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+307,felony,english,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+308,firearm,english,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+309,five-finger discount,english,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+310,forced entry,english,0,0,0,1,0,1,0,0,0,0,0,0,0,2
+311,forty-five,english,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+312,fraud,english,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+313,gang,english,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+314,gangster,english,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+315,gun,english,0,1,0,0,0,0,0,0,0,0,0,0,1,2
+316,gunowner,english,0,1,0,0,0,0,0,0,0,0,0,0,1,2
+317,gunshot,english,0,1,0,0,0,0,0,0,0,0,0,0,1,2
+318,gunshots,english,0,1,0,0,0,0,0,0,0,0,0,0,1,2
+319,handgun,english,0,1,0,0,0,0,0,0,0,0,0,0,1,2
+320,harass,english,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+321,harassment,english,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+322,heist,english,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+323,homicide,english,0,1,0,0,0,0,0,0,1,0,0,0,0,2
+324,housebraking,english,0,1,0,1,0,1,0,0,0,0,0,0,0,3
+325,illegal,english,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+326,illegality,english,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+327,immoral,english,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+328,immorality,english,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+329,imprisonment,english,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+330,infraction,english,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+331,kidnap,english,0,1,1,0,0,0,0,0,0,0,1,0,0,3
+332,kill,english,0,1,0,0,0,0,0,0,1,0,0,0,0,2
+333,killer,english,0,1,0,0,0,0,0,0,1,0,0,0,0,2
+334,killing,english,0,1,0,0,0,0,0,0,1,0,0,0,0,2
+335,larceny,english,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+336,lascivious,english,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+337,loot,english,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+338,looted,english,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+339,mafia,english,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+340,malfeasance,english,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+341,manslaughter,english,0,1,0,0,0,0,0,0,1,0,0,0,0,2
+342,manslaughterer,english,0,1,0,0,0,0,0,0,1,0,0,0,0,2
+343,massacrer,english,0,1,0,0,0,0,0,0,1,0,0,0,0,2
+344,mischief,english,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+345,misconduct,english,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+346,missing person,english,0,1,0,0,0,0,0,0,0,0,1,0,0,2
+347,money laundering,english,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+348,murder,english,0,1,0,0,0,0,0,0,1,0,0,0,0,2
+349,murdered,english,0,1,0,0,0,0,0,0,1,0,0,0,0,2
+350,murderess,english,0,1,0,0,0,0,0,0,1,0,0,0,0,2
+351,narcs,english,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+352,offensive,english,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+353,organised crime,english,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+354,organized crime,english,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+355,paedophilia,english,1,0,0,0,0,0,0,0,0,1,0,0,0,2
+356,perpetrator,english,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+357,pistol,english,0,1,0,0,0,0,0,0,0,0,0,0,1,2
+358,police,english,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+359,prey,english,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+360,prision,english,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+361,prison,english,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+362,rape,english,1,1,0,0,0,0,0,0,0,1,0,0,0,3
+363,raped,english,1,1,0,0,0,0,0,0,0,1,0,0,0,3
+364,rapist,english,1,1,0,0,0,0,0,0,0,1,0,0,0,3
+365,revolver,english,0,1,0,0,0,0,0,0,0,0,0,0,1,2
+366,rifle,english,0,1,0,0,0,0,0,0,0,0,0,0,1,2
+367,robbed,english,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+368,robbery,english,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+369,sentence,english,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+370,sentenced,english,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+371,shoplift,english,0,0,0,1,0,0,0,1,0,0,0,0,0,2
+372,shoplifter,english,0,0,0,1,0,0,0,1,0,0,0,0,0,2
+373,shoplifting,english,0,0,0,1,0,0,0,1,0,0,0,0,0,2
+374,shotgun,english,0,1,0,0,0,0,0,0,0,0,0,0,1,2
+375,stalking,english,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+376,stolen car,english,0,0,0,1,0,0,1,0,0,0,0,0,0,2
+377,strangulate,english,0,1,0,0,0,0,0,0,1,0,0,0,0,2
+378,strangulation,english,0,1,0,0,0,0,0,0,1,0,0,0,0,2
+379,sufferer,english,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+380,theft,english,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+381,thief,english,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+382,thiefs,english,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+383,thieving,english,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+384,thirty-eight,english,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+385,transgression,english,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+386,ulawful,english,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+387,vandalism,english,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+388,victim,english,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+389,violation,english,1,0,0,0,0,0,0,0,0,1,0,0,0,2
+390,weapon,english,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+391,wrongdoer,english,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+392,wrongdoing,english,0,0,0,0,0,0,0,0,0,0,0,0,0,0
